@@ -13,8 +13,8 @@ I am a developer from China,
 
 It's very cool to write my first blog by jekyll.
 
-#### My blog site:[http://blog.sina.com.cn/u/2099475323]
 #### E-mail:[sxsdjkk@foxmail.com]
+
 #### My blog site:[http://blog.sina.com.cn/u/2099475323]
 
 
