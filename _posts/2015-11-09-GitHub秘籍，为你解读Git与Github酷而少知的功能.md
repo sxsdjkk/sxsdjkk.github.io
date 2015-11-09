@@ -3,7 +3,7 @@ layout: post
 title:  "GitHub秘籍，为你解读Git与Github酷而少知的功能"
 date:   2015-11-09 19:03:42 +0800
 categories: jekyll
-
+---
 　转载自[github] [原文地址]
 
 [github]: https://github.com/xuanfeng/github-cheat-sheet/
