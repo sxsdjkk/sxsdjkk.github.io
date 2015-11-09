@@ -10,6 +10,10 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 
 Jekyll also offers powerful support for code snippets:
 
+![图片1](_green_right_view.png)
+![图片2](_green_right_view1.png)
+![图片3](https://github.com/sxsdjkk/sxsdjkk.github.io/blob/master/_green_right_view.png)
+
 {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
