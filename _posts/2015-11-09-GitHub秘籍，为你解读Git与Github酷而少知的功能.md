@@ -4,7 +4,10 @@ title:  "GitHub秘籍，为你解读Git与Github酷而少知的功能"
 date:   2015-11-09 19:03:42 +0800
 categories: jekyll
 ---
-　转载自[github] [原文地址]
+
+转载自[github] 
+
+[原文地址]
 
 [github]: https://github.com/xuanfeng/github-cheat-sheet/
 [原文地址]: https://github.com/xuanfeng/github-cheat-sheet/blob/master/README.zh-cn.md
@@ -16,6 +19,7 @@ categories: jekyll
 *Read this in other languages: [English](README.md), [한국어](README.ko.md), [日本語](README.ja.md), [简体中文](README.zh-cn.md).*
 
 # 目录
+
 - [GitHub](#github)
 - [忽略空白字符变化](#%E8%B0%83%E6%95%B4tab%E5%AD%97%E7%AC%A6%E6%89%80%E4%BB%A3%E8%A1%A8%E7%9A%84%E7%A9%BA%E6%A0%BC%E6%95%B0)
 - [调整Tab字符所代表的空格数](#%E8%B0%83%E6%95%B4tab%E5%AD%97%E7%AC%A6%E6%89%80%E4%BB%A3%E8%A1%A8%E7%9A%84%E7%A9%BA%E6%A0%BC%E6%95%B0)
@@ -74,6 +78,7 @@ categories: jekyll
 - [Git参考书籍](#git%E5%8F%82%E8%80%83%E4%B9%A6%E7%B1%8D)
 
 ## GitHub
+
 ### 忽略空白字符变化
 
 在任意diff页面的URL后加上`?w=1`，可以去掉那些只是空白字符的变化，使你能更专注于代码的变化。
