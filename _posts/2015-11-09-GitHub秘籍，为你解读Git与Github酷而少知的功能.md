@@ -5,8 +5,9 @@ date:   2015-11-09 19:03:42 +0800
 categories: jekyll
 
 　转载自[github] [原文地址]
-[github]:https://github.com/xuanfeng/github-cheat-sheet/
-[原文地址]:https://github.com/xuanfeng/github-cheat-sheet/blob/master/README.zh-cn.md
+
+[github]: https://github.com/xuanfeng/github-cheat-sheet/
+[原文地址]: https://github.com/xuanfeng/github-cheat-sheet/blob/master/README.zh-cn.md
 
 
 # GitHub秘籍
