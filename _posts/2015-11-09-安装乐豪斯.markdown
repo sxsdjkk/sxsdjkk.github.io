@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "乐豪斯安装"
+date:   2015-11-10 01:03:42 +0800
+categories: jekyll update
+---
+ 
+
+##点击以下链接安装
+
+[点击安装]
+
+
+![图片4](https://raw.githubusercontent.com/sxsdjkk/sxsdjkk.github.io/master/_green_right_view.png)
+
+
+[点击安装]:itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/sxsdjkk/sxsdjkk.github.io/master/lohasInstall.plist
+
