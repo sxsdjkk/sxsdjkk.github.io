@@ -82,15 +82,21 @@ categories: jekyll update
 
 ##说完图片的存储，再说一下图片的读取，
 
-SDWebImageManager的方法{% highlight objC %}
+SDWebImageManager的方法
+{% highlight objC %}
 - (BOOL)diskImageExistsForURL:(NSURL *)url;
-{% endhighlight %}和SDImageCache的方法{% highlight objC %}
+{% endhighlight %}
+和SDImageCache的方法
+{% highlight objC %}
 - (BOOL)diskImageExistsWithKey:(NSString *)key;
-{% endhighlight %}可以判断本地图片是否存在。
+{% endhighlight %}
+可以判断本地图片是否存在。
 
-而SDImageCache的方法{% highlight objC %}
+而SDImageCache的方法
+{% highlight objC %}
 - (UIImage *)imageFromDiskCacheForKey:(NSString *)key;
-{% endhighlight %}可以直接从沙盒读取图片。
+{% endhighlight %}
+可以直接从沙盒读取图片。
 
 
 
