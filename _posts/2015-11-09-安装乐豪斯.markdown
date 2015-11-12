@@ -14,4 +14,4 @@ categories: jekyll update
 ![图片4](https://raw.githubusercontent.com/sxsdjkk/sxsdjkk.github.io/master/_green_right_view.png)
 
 
-[点击安装]:itms-services://?action=download-manifest&url=http://7xl0f5.com1.z0.glb.clouddn.com/lohasInstall.plist
+[点击安装]:itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/sxsdjkk/sxsdjkk.github.io/master/lohasInstall.plist
