@@ -19,4 +19,4 @@ It's very cool to write my first blog by jekyll.
 
 
 [http://blog.sina.com.cn/u/2099475323]: http://blog.sina.com.cn/u/2099475323
-[sxsdjkk@foxmail.com]:mailto:"sxsdjkk@foxmail.com"
+[sxsdjkk@foxmail.com]:mailto:sxsdjkk@foxmail.com
