@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title></title>
+</head>
+<body>
+head信息：
+<br/>
+<table>
+<tr>
+<th style="width: 10%;">key</th>
+<th style="width: 10%;">值</th>
+</tr>
+
+<tr>
+<td>Host</td>
+<td>develop.dingguanyong.com</td>
+</tr>
+
+<tr>
+<td>Accept</td>
+<td>*/*</td>
+</tr>
+
+<tr>
+<td>User-Agent</td>
+<td>curl/7.43.0</td>
+</tr>
+
+</table>
+<br />
+<br />
+<br />
+JS函数setArgs传递参数：
+<br />
+<div id="div">
+</div>
+<script>
+function setArgs(buyer_id, node_id, job_id, customer_id, token, version) {
+var str = "";
+str += "buyer_id：" + buyer_id + "<br/>";
+str += "node_id：" + node_id + "<br/>";
+str += "job_id：" + job_id + "<br/>";
+str += "customer_id：" + customer_id + "<br/>";
+str += "token：" + token + "<br/>";
+str += "version：" + version + "<br/>";
+document.getElementById("div").innerHTML = str;
+}
+// setArgs();
+</script>
+</body>
