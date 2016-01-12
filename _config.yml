@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Hello world!
   I am a iOS developer from China,
   Contact me via email if you are intetested.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "blog.ikeke.win" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username:  sxsdjkk
