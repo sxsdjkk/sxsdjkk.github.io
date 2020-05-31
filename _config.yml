@@ -8,11 +8,12 @@
 # Site settings
 title: KeKe's blog
 email: sxsdjkk@foxmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Hello world!
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "blog.koder.fun" # the base hostname & protocol for your site
-# twitter_username: jekyllrb
+description: "Hello world!"
+  
+baseurl: "" # the subpath of your site, e.g. /blog
+
+url: "blog.koder.link" # the base hostname & protocol for your site
+
 github_username:  sxsdjkk
 
 # Build settings
