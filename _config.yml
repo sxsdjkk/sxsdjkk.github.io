@@ -10,9 +10,8 @@ title: KeKe's blog
 email: sxsdjkk@foxmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Hello world!
-  I am a developer from China.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "blog.koder.link" # the base hostname & protocol for your site
+baseurl: "/blog" # the subpath of your site, e.g. /blog
+url: "blog.koder.fun" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username:  sxsdjkk
 
