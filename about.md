@@ -5,19 +5,16 @@ permalink: /about/
 ---
 
 
-### Hi!
+### Hello world!
 
 I am KeKe,
 
-I am a developer from China,
 
-It's very cool to write my first blog by jekyll.
-
-#### E-mail:<sxsdjkk@foxmail.com>
+#### E-mail:<jin@koder.fun>
 
 
-#### My blog site:[http://blog.sina.com.cn/u/2099475323]
+#### Blog:[https://www.jianshu.com/u/16e6248e7492]
 
 
-[http://blog.sina.com.cn/u/2099475323]: http://blog.sina.com.cn/u/2099475323
-[sxsdjkk@foxmail.com]:mailto:"sxsdjkk@foxmail.com"
+[https://www.jianshu.com/u/16e6248e7492]: https://www.jianshu.com/u/16e6248e7492
+[jin@koder.fun]:mailto:"jin@koder.fun"
